@@ -1,7 +1,7 @@
 # <h1>Nike logo replacemet</h1>
 <h2>In this task I replaced three Nike logos in the pre-made Nike page template. Logos should be .png, .svg and canvas.</h2>
 
-<h3>First replacement is wth .svg image</h3>
+<h3>First replacement is with .svg image</h3>
 
 ![image](https://github.com/user-attachments/assets/cb70758c-8f3d-417d-a71f-dfc56f542205)
 
