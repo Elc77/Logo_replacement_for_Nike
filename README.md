@@ -12,6 +12,5 @@
 
 <h3>Third replacement is with canvas image (color of the logo could be changed throught css)</h3>
 
-![image](https://github.com/user-attachments/assets/01ce9bd3-78e8-41a8-93c9-7d39795c7a91)
+![image](https://github.com/user-attachments/assets/56aafe34-7e7a-4bd3-8f40-a1cbb3a60fe2)
 
-![image](https://github.com/user-attachments/assets/624ade72-c0e1-4c7c-9820-6b81a5d9ffa9)
