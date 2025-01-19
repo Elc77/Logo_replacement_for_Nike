@@ -7,6 +7,7 @@
 
 <h3>Second replacement is with .png image over the shoe Logo</h3>
 
+![image](https://github.com/user-attachments/assets/31e50a89-0875-4c15-b05a-5f473fad86e1)
 
 
 <h3>Third replacement is with canvas image (color of the logo could be changed throught css)</h3>
