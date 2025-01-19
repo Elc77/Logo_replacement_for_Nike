@@ -4,6 +4,7 @@
 <h3>First replacement is with .svg image</h3>
 
 ![image](https://github.com/user-attachments/assets/cb70758c-8f3d-417d-a71f-dfc56f542205)
+![image](https://github.com/user-attachments/assets/0d2b80cf-f896-4912-aae0-53c56c4bd48d)
 
 ![image](https://github.com/user-attachments/assets/1cf671d1-7f9f-4be6-8d36-51e3dd138845)
 
