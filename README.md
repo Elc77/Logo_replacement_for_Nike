@@ -15,4 +15,5 @@
 ![image](https://github.com/user-attachments/assets/56aafe34-7e7a-4bd3-8f40-a1cbb3a60fe2)
 
 <h3>Credits are hidden on this part of the shoe, will show if clicked</h3>
+
 ![image](https://github.com/user-attachments/assets/e6324ee3-924e-4839-9d85-73bf8b0e99aa)
